@@ -1,0 +1,11 @@
+C:\Users\samanta.melissa\Desktop\Matematica\Matematica\bin\Debug\net6.0\Matematica.deps.json
+C:\Users\samanta.melissa\Desktop\Matematica\Matematica\bin\Debug\net6.0\Matematica.dll
+C:\Users\samanta.melissa\Desktop\Matematica\Matematica\bin\Debug\net6.0\Matematica.pdb
+C:\Users\samanta.melissa\Desktop\Matematica\Matematica\obj\Debug\net6.0\Matematica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samanta.melissa\Desktop\Matematica\Matematica\obj\Debug\net6.0\Matematica.AssemblyInfoInputs.cache
+C:\Users\samanta.melissa\Desktop\Matematica\Matematica\obj\Debug\net6.0\Matematica.AssemblyInfo.cs
+C:\Users\samanta.melissa\Desktop\Matematica\Matematica\obj\Debug\net6.0\Matematica.csproj.CoreCompileInputs.cache
+C:\Users\samanta.melissa\Desktop\Matematica\Matematica\obj\Debug\net6.0\Matematica.dll
+C:\Users\samanta.melissa\Desktop\Matematica\Matematica\obj\Debug\net6.0\refint\Matematica.dll
+C:\Users\samanta.melissa\Desktop\Matematica\Matematica\obj\Debug\net6.0\Matematica.pdb
+C:\Users\samanta.melissa\Desktop\Matematica\Matematica\obj\Debug\net6.0\ref\Matematica.dll
